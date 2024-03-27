@@ -7,6 +7,12 @@
 # familiarise ourselves with some basic Machine Learning code from
 # Google Colab (https://colab.research.google.com/notebooks/gpu.ipynb#scrollTo=sXnDmXR7RDr2)
 
+
+
+
+# Identify GPU 
+# =====================================
+
 # to compare the difference in computing speed between CPUs and GPUs
 # the following example constructs a typical convolutional neural network layer 
 # over a random image and manually places the resulting ops on 
